@@ -1,0 +1,18 @@
+entity: User
+items: 
+   user1:
+     firstName: 'Susan'
+     lastName: 'Sarandon'
+     password: 'abcde'
+     email: 'susan@gmail.com'
+     birthdate: '2020-01-07T13:29:16.977Z'
+     roles:
+       - "@role1"
+   user2:
+     firstName: 'Cate'
+     lastName: 'Blanchett'
+     password: 'fghij'
+     email: 'cate@gmail.com'
+     birthdate: '2020-01-07T13:29:16.977Z'
+     roles:
+       - "@role4"
